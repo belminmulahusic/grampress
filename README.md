@@ -28,4 +28,8 @@ Grampress (gpress) is a simple command-line tool for grammar-based compression, 
 ./gpress --search "pattern" text.txt.gps
 ```
 
+## Contributors
+Belmin Mulahusic
+Tom Graf
+
 
