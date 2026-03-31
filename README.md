@@ -3,13 +3,6 @@
 
 Grampress (gpress) is a simple command-line tool for grammar-based compression, decompression, and efficient search in compressed text data.
 
-## Download Binary
-
-You can download the latest release binary here:  
-
-[![Download gpress](https://img.shields.io/badge/Download-gpress-blue)](https://git.thm.de/compress-group/grampress/-/jobs/artifacts/dev/raw/target/release/gpress?job=build_binary)
-
-
 
 ## Features
 
