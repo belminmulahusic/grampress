@@ -1,0 +1,11 @@
+[package]
+name = "gpress"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+clap = { version = "4.5.43", features = ["derive"] }
+memchr = "2.7.6"
+tempfile = "3.21.0"
+huffman-coding = "0.1"
+indexmap = "2.12"
