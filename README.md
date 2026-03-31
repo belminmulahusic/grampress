@@ -29,7 +29,7 @@ Grampress (gpress) is a simple command-line tool for grammar-based compression, 
 ```
 
 ## Contributors
-Belmin Mulahusic
-Tom Graf
+- Belmin Mulahusic
+- Tom Graf
 
 
